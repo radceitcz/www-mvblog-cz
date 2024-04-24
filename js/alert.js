@@ -1,0 +1,1 @@
+alert("Na webu se stále pracuje");

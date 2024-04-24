@@ -1,0 +1,59 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+body{
+    width: 1280px;
+    font-size: 20px;
+    margin: 0 auto;
+}
+
+div#hlavicka{
+width: 1280px;
+height: 200px;
+}
+
+div#menu{
+    float: left;
+    width: 30%;
+}
+
+div#menu h2{
+    display: none;
+}
+
+div#menu li{
+    list-style-type: none;
+    background-color: lightblue;
+}
+#menu a{
+    font-size: 32px;
+    text-decoration: underline;
+    font-weight: bold;
+}
+div#obsah{
+    float: right;
+    width: 65%;
+}
+div#obsah p{
+    font-size: 20px;
+}
+/*TABULKY*/
+table{
+    width: 640px;
+    text-align: center;
+}
+table td{
+    border: 2px solid black;
+    border-collapse:collapse;
+}
+.th{
+    font-weight: bold;
+}
+/*TABULKY*/
+h1{
+    font-size: 40px;
+    text-align: center;
+    text-decoration: underline;
+}
