@@ -53,6 +53,7 @@ table td{
     font-weight: bold;
 }
 /*TABULKY*/
+/*Prostý text*/
 h1{
     font-size: 42px;
     text-align: center;
@@ -62,6 +63,7 @@ h1{
 h2{
     color: blue;
     text-align: center;
+    
 }
 h3{
     color: blue;
@@ -70,3 +72,4 @@ h3{
 p{
     text-align: justify;
 }
+/*Prostý text*/
