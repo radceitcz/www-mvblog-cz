@@ -5,7 +5,7 @@
 
 body{
     width: 1280px;
-    font-size: 20px;
+    font-size: 1.2em;
     margin: 0 auto;
 }
 
@@ -29,7 +29,7 @@ div#menu li{
     text-align: center;
 }
 #menu a{
-    font-size: 32px;
+    font-size: 1.5em;
     text-decoration: underline;
     font-weight: bold;
 }
@@ -38,7 +38,7 @@ div#obsah{
     width: 65%;
 }
 div#obsah p{
-    font-size: 20px;
+    font-size: 1.2em;
 }
 /*TABULKY*/
 table{
@@ -55,18 +55,20 @@ table td{
 /*TABULKY*/
 /*Prostý text*/
 h1{
-    font-size: 42px;
+    font-size: 2em;
     text-align: center;
     text-decoration: underline;
     color:blue; 
 }
 h2{
     color: blue;
+    font-size: 1.2em;
     text-align: center;
     text-decoration: underline;
 }
 h3{
     color: blue;
+font-size: 1.1em;
     text-align: center;
     text-decoration: underline;
 }
