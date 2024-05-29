@@ -65,18 +65,24 @@ h1{
     text-align: center;
     text-decoration: underline;
     color:1e90ff; 
+    margin-top: 10px;
+    margin-bottom: 10px;
 }
 h2{
     color: 1e90ff;
     font-size: 1.2em;
     text-align: center;
     text-decoration: underline;
+    margin-top: 10px;
+    margin-bottom: 10px;
 }
 h3{
     color: 1e90ff;
 font-size: 1.1em;
     text-align: center;
     text-decoration: underline;
+    margin-top: 10px;
+    margin-bottom: 10px;
 }
 p{
     text-align: justify;
