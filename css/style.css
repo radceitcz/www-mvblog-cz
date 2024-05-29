@@ -34,6 +34,11 @@ div#menu li{
     font-weight: bold;
     color: black;
 }
+
+#menu a:hover{
+    color: white;
+    background-color: black;
+}
 div#obsah{
     float: right;
     width: 65%;
