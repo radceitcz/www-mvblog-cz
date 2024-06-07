@@ -89,3 +89,12 @@ p{
     line-height: 1.5;
 }
 /*Prostý text*/
+/*Třídy*/
+#vlevo{
+    text-align: left;
+    list-style-type: none;
+}
+/*Třídy*/
+#obsah ul h2{
+    text-align: left;
+}
