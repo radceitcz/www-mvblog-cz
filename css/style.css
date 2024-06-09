@@ -57,6 +57,7 @@ table td{
 }
 .th{
     font-weight: bold;
+    text-decoration: underline;
 }
 /*TABULKY*/
 /*Prostý text*/
