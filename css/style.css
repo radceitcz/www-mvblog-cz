@@ -5,6 +5,7 @@
 
 body{
     width: 1280px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-size: 1.2em;
     margin: 0 auto;
 }
@@ -91,9 +92,8 @@ p{
 }
 /*Prostý text*/
 /*Třídy*/
-#vlevo{
-    text-align: left;
-    list-style-type: none;
+.stred{
+    text-align: center;
 }
 /*Třídy*/
 #obsah ul h2{
