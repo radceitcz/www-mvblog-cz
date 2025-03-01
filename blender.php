@@ -43,11 +43,11 @@
     <div id="menu">
         <h2>menu</h2>
         <ul>
-            <li><a href="index.html">Domů</a></li>
-            <li><a href="fs25.html">Farming simulator 25</a></li>
-            <li><a href="blender.html">Blender</a></li>
-            <li><a href="krypto.html">Krypto</a></li>
-            <li><a href="podpora-webu.html">Podpořít web</a></li>
+            <li><a href="index.php">Domů</a></li>
+            <li><a href="fs25.php">Farming simulator 25</a></li>
+            <li><a href="blender.php">Blender</a></li>
+            <li><a href="krypto.php">Krypto</a></li>
+            <li><a href="podpora-webu.php">Podpořít web</a></li>
         </ul>
     </div>
 </body>
