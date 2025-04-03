@@ -91,9 +91,9 @@ p{
 }
 /*Prostý text*/
 /*Třídy*/
-#vlevo{
-    text-align: left;
-    list-style-type: none;
+.vlevo {
+ text-align: left;
+list-style-type: none;
 }
 /*Třídy*/
 #obsah ul h2{
