@@ -99,3 +99,7 @@ list-style-type: none;
 #obsah ul h2{
     text-align: left;
 }
+
+details{
+    text-align: center;
+}
