@@ -99,3 +99,9 @@ list-style-type: none;
 #obsah ul h2{
     text-align: left;
 }
+
+/*testovací sekce*/
+details{
+    text-align: center;
+}
+/*testovací sekce*/
