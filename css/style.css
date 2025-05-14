@@ -64,7 +64,6 @@ table td{
 h1{
     font-size: 2em;
     text-align: center;
-    text-decoration: underline;
     color:1e90ff; 
     margin-top: 10px;
     margin-bottom: 10px;
@@ -73,7 +72,6 @@ h2{
     color: 1e90ff;
     font-size: 1.2em;
     text-align: center;
-    text-decoration: underline;
     margin-top: 10px;
     margin-bottom: 10px;
 }
@@ -81,7 +79,6 @@ h3{
     color: 1e90ff;
 font-size: 1.1em;
     text-align: center;
-    text-decoration: underline;
     margin-top: 10px;
     margin-bottom: 10px;
 }
@@ -102,4 +99,5 @@ list-style-type: none;
 
 details{
     text-align: center;
+    text-decoration: underline;
 }
